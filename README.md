@@ -1,4 +1,4 @@
-# ArcoLinux BYOI Bspwm desktop
+# ArcoLinuxB-Bspwm Twist-Off
 
 # Get your code to build your own iso
 
